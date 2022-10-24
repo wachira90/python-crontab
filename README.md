@@ -1,6 +1,10 @@
 # python-crontab
 
+## install 
 
+````
+pip install python-crontab
+````
 
 ## test1.py
 
